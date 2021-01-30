@@ -4,4 +4,5 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts
  <ol>
   <li> using percentages and avoiding heights</li>
   <li> getting familiar with relative units</li>
+ <li> max-width </li>
 
